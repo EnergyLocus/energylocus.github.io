@@ -4,8 +4,14 @@ Hi there! Nice to meet you.<br>I am a CS student and I like developing repositor
 Here are some repositories by me:<ol>
 <li>HomePage: <a href="https://github.com/EnergyLocus/energylocus.github.io/">Open it</a></li>
 <li>Programming Books: <a href="https://github.com/EnergyLocus/programmingbooks">Open it</a></li>
-<li>QuickFonts: <a href="https://github.com/EnergyLocus/quickfonts">Open it</a></li>
-<li>ColorWorld: <a href="https://gitHub.com/EnergyLocus/ColorWorld">Open it</a></li>
+<li>QuickFonts: <a href="https://github.com/EnergyLocus/QuickFonts">Open it</a></li>
+<li>ColorWorld: <a href="https://github.com/EnergyLocus/ColorWorld">Open it</a></li>
+<li>LoremIpsum: <a href="https://github.com/EnergyLocus/LoremIpsum">Open it</a></li>
+<li>storage: <a href="https://github.com/EnergyLocus/storage">Open it</a></li>
+<li>URL Shortner Telegram Bot: <a href="https://github.com/EnergyLocus/URL-Shortener-Telegram-Bot">Open it</a></li>
+<li>Python Telegram Bot: <a href="https://github.com/EnergyLocus/Python-Telegram-Bot">Open it</a></li>
+<li>NodeJS Telegram Bot: <a href="https://github.com/EnergyLocus/NodeJS-Telegram-Bot">Open it</a></li>
+<li>URL Uploader Telegram Bot: <a href="https://github.com/EnergyLocus/URL-Uploader-Telegram-Bot">Open it</a></li>
 more on the way....</ol>
 <h2><b>Update Channel</b></h2>
 I also host a Repository Update Channel! Where I provide updates on my Repository. You can join my Channel from below Button:<br>
